@@ -6,7 +6,7 @@
 
 ### 🙏 About Me
 
-- 🎓 CS Student @ **Western University** — Graduating Dec 2027 (Specialization in CS)
+- 🎓 CS Student @ **Western University** (Specialization in CS)
 - 💼 SWE Intern @ [**Autodesk**](https://www.autodesk.com) — building AI-powered agent platforms & RAG pipelines
 - 💼🔙 Prev SWE Intern @ [**RBC Capital Markets**](https://www.rbccm.com) | [**General Dynamics Land Systems**](https://www.gdls.com)
 - 🏐 Two-year Team Captain, [**Western Varsity Volleyball**](https://westernmustangs.ca/sports/womens-volleyball/roster/thea-ishida/36005)
